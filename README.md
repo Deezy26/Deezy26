@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Deezy26
 - 👀 I’m interested in Coding and sports
-- 🌱 I’m currently learning Software Developement
+- 🌱 I’m currently learning AI engineering
 - 💞️ I’m looking to collaborate on new software projects
-- 📫 How to reach me comment your email
-- 😄 Pronouns: 
+- 📫 How to reach me comment your email mpofuthand72@gmail.com
 - ⚡ Fun fact: I'm South African
 
 <!---
